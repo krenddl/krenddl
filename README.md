@@ -26,6 +26,7 @@ public class Amir : BackendDeveloper
     public string Stack       => ".NET / C# / ASP.NET Core";
     public string Focus       => "REST API, очереди сообщений, real-time";
     public string Strength    => "Проектирование и администрирование БД (PostgreSQL)";
+    public bool   LovesClean  => true; // чистая архитектура и понятный код
 }
 ```
 
@@ -65,8 +66,6 @@ public class Amir : BackendDeveloper
     <td><b>Frontend</b></td>
     <td>
       <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
     </td>
   </tr>
   <tr>
@@ -113,7 +112,7 @@ public class Amir : BackendDeveloper
       <h4>🏥 <a href="https://github.com/krenddl/digi-clinic">digi-clinic</a></h4>
       <p>Система управления клиникой: запись к врачу, чат в реальном времени, Telegram-бот, деплой на Render.</p>
       <p>
-        <code>ASP.NET Core</code> <code>React</code> <code>PostgreSQL</code> <code>SignalR</code>
+        <code>ASP.NET Core</code> <code>HTML</code> <code>CSS</code> <code>PostgreSQL</code> <code>SignalR</code>
       </p>
     </td>
   </tr>

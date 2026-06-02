@@ -26,7 +26,6 @@ public class Amir : BackendDeveloper
     public string Stack       => ".NET / C# / ASP.NET Core";
     public string Focus       => "REST API, очереди сообщений, real-time";
     public string Strength    => "Проектирование и администрирование БД (PostgreSQL)";
-    public bool   LovesClean  => true; // чистая архитектура и понятный код
 }
 ```
 
